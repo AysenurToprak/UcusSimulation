@@ -1,5 +1,3 @@
-
-oncelik_id ucak_id talep_edilen_inis_saati
 1 1 14
 2 2 13
 2 3 11
@@ -21,10 +19,10 @@ oncelik_id ucak_id talep_edilen_inis_saati
 1 19 23 
 4 20 21 
 3 21 19
- 4 22 1 
+4 22 1
 2 23 2
- 3 24 8
- 1 25 16 
+3 24 8
+1 25 16
 4 26 20
- 2 27 2
- 4 28 3
+2 27 2
+4 28 3

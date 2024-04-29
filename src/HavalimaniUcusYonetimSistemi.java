@@ -37,7 +37,6 @@ public class HavalimaniUcusYonetimSistemi {
             File inputFile = new File("input.txt");
             Scanner scanner = new Scanner(inputFile);
 
-            // input.txt dosyasından verileri oku ve Uçak nesnelerini oluşturarak öncelikli kuyruğa ekle
             while (scanner.hasNextLine()) {
                 String[] line = scanner.nextLine().split("");
                 int oncelik = Integer.parseInt(line[0]);
